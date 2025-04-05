@@ -1,0 +1,21 @@
+{
+  "name": "fastparselite",
+  "version": "1.0.0",
+  "description": "Super simple & fast DSL parser for lightweight config-like data using custom syntax.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "dsl",
+    "parser",
+    "lightweight",
+    "config",
+    "json-alternative"
+  ],
+  "author": "Dineshkumar A",
+  "license": "MIT",
+  "dependencies": {
+    "perf_hooks": "^0.0.1"
+  }
+}
